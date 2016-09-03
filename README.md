@@ -9,13 +9,13 @@ go after you have set return url at cointopay.com.
 
 Under "Payment URLs"
 Payment Confirmation URL : 
-'''
+```
 http://yourdomain.com/index.php?route=payment/cointopay/callback&
-'''
+```
 Payment Fail URL : 
-'''
+```
 http://youdomain.com/index.php?route=payment/cointopay/callback&
-'''
+```
 
 Created by Fredrik Bodin @ www.sicanet.net (contact@sicanet.net)
 
