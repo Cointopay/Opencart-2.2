@@ -54,7 +54,7 @@
                         <tbody>
                             <tr>
                                 <td style="width: 200px;"><?php echo $text_pay_with_other;?></td>
-                                <td><button style="box-shadow: 0 16px 7px -7px #276873;background-color:#446bb3;border-radius:8px;color:#ffffff;font-size:20px;  padding:4px 11px;text-decoration:none;font-weight:bold;"><a href="<?php echo $RedirectURL;?>" style="color:#fff" ><?php echo $text_clickhere;?></a></button></td>
+				<td><a href="<?php echo $RedirectURL;?>"><?php echo $text_clickhere;?></a></td>
                             </tr>
                         </tbody>
                     </table>
