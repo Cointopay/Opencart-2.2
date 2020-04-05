@@ -1,4 +1,6 @@
-# c2p-opencart-2.2
+# c2p-opencart-2.2 / cointopay.com
+
+SOURCE CODE FOR COINTOPAY OPENCART PLUGIN LOCATED HERE: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37980&filter_download_id=36&sort=date_added
 
 This is the payment module for using Cointopay (www.cointopay.com) crypto payment module on OpenCart 2.2.
 
